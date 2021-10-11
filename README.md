@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Sikarwar</h1>
-<h3 align="center">a Python Developer from India .I also have basic knowledge in C,C++,Data Structure and Algorithms.I enjoy eating food and traveling</h3>
+<h3 align="center">I'm a web developer and a programmer with a keen interest in the field of Data Science. I make web applications usually with Django. My field of expertise is python and have done impeccable project work in python and am adaptable to a new language or framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa05-s&label=Profile%20views&color=0e75b6&style=flat" alt="richa05-s" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web development project**
 
-- 💬 Ask me about **python,Django,C++**
+- 💬 Ask me about **python,Django,C**
 
 - 📫 How to reach me **Contact me on this email-richasikarwar9@gmail.com**
 
